@@ -1,10 +1,37 @@
-header {
-    background-color:rgb(187, 187, 187);
-    padding: 10px;
+body {
+    background: rgb(152,154,158);
+background: linear-gradient(0deg, rgba(152,154,158,1) 50%, rgba(0,0,0,1) 100%);
+    font-family: 'PT Sans Narrow', sans-serif; 
+}
 
+header {
+    background-color: white;
+    padding: 10px;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+a {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;  
 }
 
 .card {
-    background-color: rgb(187, 187, 187);
-    
+    background-color:white; 
+}
+
+img {
+    margin: auto;
+    margin-top: 15px;
+}
+
+footer {
+    margin-top: 15px;
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+    border-color: grey;
 }
