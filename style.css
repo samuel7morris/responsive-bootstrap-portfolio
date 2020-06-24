@@ -1,6 +1,7 @@
 body {
+    height: 1000px;
     background: rgb(152,154,158);
-background: linear-gradient(0deg, rgba(152,154,158,1) 50%, rgba(0,0,0,1) 100%);
+    background: linear-gradient(0deg, rgba(152,154,158,1) 50%, rgba(0,0,0,1) 100%);
     font-family: 'PT Sans Narrow', sans-serif; 
 }
 
@@ -29,9 +30,11 @@ img {
 }
 
 footer {
-    margin-top: 15px;
+    
     background-color: white;
     padding: 40px;
     text-align: center;
     border-color: grey;
 }
+
+
